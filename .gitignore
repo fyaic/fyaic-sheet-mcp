@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# PowerShell
+*.ps1xml
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+temp_output.json
+
+# Excel files (example)
+*.xlsx
+*.xls
+
+# XML exports (optional - uncomment if you want to ignore _xml folders)
+# *_xml/
