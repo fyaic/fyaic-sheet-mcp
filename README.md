@@ -69,13 +69,4 @@ flowchart TD
     I --> J[获取并分析数据]
     J --> K[返回结果给用户]
 ```
-文件结构/
-├── index.ps1                    # ⭐ 主入口：智能调用
-├── ParseExcelXml.py             # ⭐⭐ 快速Python 解析器
-├── NEW-README.md                # 本文档
-├── prompts/
-│   └── guideline.md             # 表格理解指南（AI 阅读规则）
-└── scripts/
-    ├── ListSheets.ps1           # 列出工作表
-    ├── ReadSheets.ps1           # Excel COM 方式读取
-    └── ReadExcelAsXml.ps1       # 完整引擎：PS 解析器
+
